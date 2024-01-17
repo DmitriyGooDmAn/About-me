@@ -15,20 +15,31 @@ Currently, my focus is on expanding my knowledge in web development, particularl
 
 ## Education and Work Experience
 
-- 🎓 Studying "Medical Sterilisation Technician" in Krakow.
-- 📜 Unfinished higher education in economics and law from Krivoy Rog National University.
-- 💼 Senior Operator at Tele-fonika kable S.A., Krakow.
+- 💼 Senior Operator Tele-fonika kable S.A., Krakow, Poland.
+- 📦 Warehouse Operator LOXXESS AG, Plzeň, Czech Republic.
+- 📦 Warehouse Operator FIEGE, Szczecin, Poland.
+- 👔 Entrepreneurial Experience: Former private entrepreneur. Kryvyi Rih, Ukraine.
+- 🎓 Studying "Medical Sterilisation Technician" Krakow, Poland.
+- 📜 Unfinished Higher Education  Economics and law from Krivyi Rih National University.
+- 🍽️ Restaurant and Nightclub Manager Kryvyi Rih, Ukraine.
 
 ## Language Skills
 
-- 🇷🇺 Fluent in Russian.
-- ua Fluent in Ukrainian.
-- 🇵🇱 Advanced proficiency in Polish.
-- 🇬🇧 Basic understanding of English.
+- 🇷🇺 Russian (Fluent)
+- 🇺🇦 Ukrainian (Fluent)
+- 🇵🇱 Polish (Advanced)
+- 🇬🇧 English (Basic)
 
-## Seeking Opportunities
+## Certificates
 
-I am actively seeking internship opportunities in IT where I can apply my skills, learn, and contribute to exciting projects. Open to new challenges and eager to grow as a professional.
+- Introduction to CSS - Sololearn, Jan 2024.
+- Tech for everyone - Sololearn, Jan 2024.
+- Coding foundation - Sololearn, Dec 2023.
+- Fundamentals of Web UI Development 2023 - Prometheus, Dec 2023.
+- Getting started with ChatGPT - Prometheus, Nov 2023.
+- IT product from scratch: where to start and how to develop? - Prometheus, Nov 2023.
+- Introduction in Python - Sololearn, Nov 2023.
+- Smm - Prometheus, Nov 2023.
+- Fundamentals of digital marketing - Google Career Certificates, Oct 2023.
 
-Feel free to connect with me for collaborations or discussions!
-
+Feel free to adjust or let me know if there's anything else you'd like to include!
