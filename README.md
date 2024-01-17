@@ -42,4 +42,5 @@ Currently, my focus is on expanding my knowledge in web development, particularl
 - Smm - Prometheus, Nov 2023.
 - Fundamentals of digital marketing - Google Career Certificates, Oct 2023.
 
-Feel free to adjust or let me know if there's anything else you'd like to include!
+I’m looking for an internship in IT where I can apply my learning and grow as a professional.
+I’m open to new challenges and opportunities to work on exciting projects.
